@@ -1,5 +1,14 @@
-p {
-    backround-color: pink;
+.odd {
+    background-color: pink;
     font-family: Verdana, "Dejavu Sans", "sans-serif" ;
-    
+
+}
+#second {
+    text: blue;
+    font-size: 24px;
+}
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
 }
